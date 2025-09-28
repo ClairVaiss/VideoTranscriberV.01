@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Video Transcriber",
+  "description": "A web application that takes a video URL, allows language selection, and generates a transcription for the video. It supports multiple transcriptions simultaneously, shows progress, and allows downloading or copying the final text.",
+  "requestFramePermissions": []
+}
